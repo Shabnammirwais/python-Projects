@@ -1,0 +1,18 @@
+{
+    "redhb": {
+        "email": "example@example.com",
+        "password": "erdhbb"
+    },
+    "google": {
+        "email": "angela@gmail.com",
+        "password": "8Z*$%i3smv&3ciSV1"
+    },
+    "amazon": {
+        "email": "angela@gmail.com",
+        "password": "!&)8cJ0t6kIdNEo*"
+    },
+    "facbook": {
+        "email": "angela@gmail.com",
+        "password": "1cgWsrcM(#U#0p*"
+    }
+}
